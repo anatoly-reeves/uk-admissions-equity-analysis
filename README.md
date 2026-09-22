@@ -1,4 +1,4 @@
-# uk-admissions-equity-analysis
+# UK University Admissions Equity Analysis
 Capstone project for the Imperial College London Professional Certificate in Data Analytics. Examines socioeconomic inequality in UK university admissions and whether disadvantage at entry compounds into early-career graduate earnings gaps, using UCAS and DfE LEO data.
 Socioeconomic Diversity in UK University Admissions: Does Disadvantage at Entry Compound into Lower Early-Stage Graduate Career Earnings?
 
